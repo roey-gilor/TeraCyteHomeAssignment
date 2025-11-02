@@ -31,7 +31,10 @@ cp config.example.json config.private.json
 Open the solution in Visual Studio 2022
 Click Run (WPF app will launch)
 
-## Architecture & Approach
+Note: When opening the solution, Visual Studio will automatically restore NuGet packages.
+If needed, right-click the solution → "Restore NuGet Packages".
+
+### Architecture & Approach
 
 Overview:
 The project is structured following the MVVM pattern and clean separation of concerns.
