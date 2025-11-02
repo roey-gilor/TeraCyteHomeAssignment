@@ -53,11 +53,5 @@ API - ApiClient - PollingService - MainViewModel - WPF UI
 - MainViewModel updates UI properties, image, histogram, and history list
 - UI auto-updates via WPF data binding
 
-### Application Screenshot
-
-<img width="1882" height="954" alt="screenshot1" src="https://github.com/user-attachments/assets/2da4e7b6-5559-42cc-9bfb-44d03975bc76" />
-
-
-### History View
-
-<img width="1894" height="864" alt="screenshot2" src="https://github.com/user-attachments/assets/d0250289-0fa5-41a9-b6ce-5697e1fcc877" />
+### Application Screenshot + History View
+You can see them inside images folder
